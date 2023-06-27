@@ -1,0 +1,4 @@
+theme = "ananke"
+baseURL = "https://example.org/"
+languageCode = "zh-TW"
+title = "我的網站"
